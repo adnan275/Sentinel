@@ -12,3 +12,4 @@ export { default as InstallSection } from './InstallSection';
 export { default as Footer } from './Footer';
 
 export { default as ConnectCTA } from './ConnectCTA';
+export { default as Testimonials } from './Testimonials';
