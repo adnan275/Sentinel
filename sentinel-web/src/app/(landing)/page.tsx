@@ -1,9 +1,11 @@
-import { Hero, ConnectCTA, Testimonials, FAQSection } from '@/components/landing';
+import { Hero, ConnectCTA, Testimonials, FAQSection, HowItWorks } from '@/components/landing';
 
 export default function Home() {
     return (
         <>
             <Hero />
+
+            <HowItWorks />
 
             <Testimonials />
 
