@@ -1,4 +1,4 @@
-import { Hero, ConnectCTA, Testimonials } from '@/components/landing';
+import { Hero, ConnectCTA, Testimonials, FAQSection } from '@/components/landing';
 
 export default function Home() {
     return (
@@ -6,6 +6,8 @@ export default function Home() {
             <Hero />
 
             <Testimonials />
+
+            <FAQSection />
 
             <ConnectCTA />
         </>
